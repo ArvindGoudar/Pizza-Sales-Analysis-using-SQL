@@ -1,6 +1,6 @@
 <h1 align='center'><samp><strong>Pizza Sales Analysis Using SQL</bold></samp></h1>
 
-## Ojective 
+## Objective 
 
 To conduct a comprehensive analysis of pizza sales data using  SQL queries to uncover key insights and trends, and to provide actionable recommendations to increase sales and drive business growth.
 
